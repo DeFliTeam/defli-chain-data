@@ -1,4 +1,4 @@
-# Palkeoramix decompiler. 
+
 
 const unknown2763b8da = 0
 const unknown3c4dfc82 = 10^14
